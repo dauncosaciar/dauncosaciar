@@ -1,4 +1,4 @@
-# ⚔️ Salve, soy Daniel Uncos Aciar
+# ⚔️ Salve, soy Daniel A. Uncos Aciar
 
 ![Profile Hero][profile-hero]
 
@@ -7,6 +7,13 @@
 Ingeniero en Sistemas de Información especializado en desarrollo de sitios web funcionales, optimizados y visualmente cuidados.
 
 Trabajo principalmente con **React** y **WordPress**, creando desde sitios institucionales hasta soluciones e-commerce.
+
+## ⚡ Sobre mí
+
+- +5 años desarrollando sitios web en producción.
+- Experiencia real con clientes y equipos de trabajo.
+- Enfoque en rendimiento, UX y código mantenible.
+- Apertura de línea WordPress en empresa (impacto real).
 
 ## Tecnologías que manejo actualmente
 
