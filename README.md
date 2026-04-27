@@ -45,6 +45,10 @@ Trabajo principalmente con **React** y **WordPress**, creando desde sitios insti
 
 [![Linkedin][Linkedin]][Linkedin-url] [![Portfolio][Portfolio]][Portfolio-url]
 
+## 🧠 Actualmente
+
+Profundizando en tecnologías del ecosistema JavaScript y consolidando conocimientos en desarrollo frontend, aplicando buenas prácticas en proyectos con React y WordPress.
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [profile-hero]: assets/img/github-profile-2026.jpg
