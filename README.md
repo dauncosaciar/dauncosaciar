@@ -15,7 +15,7 @@ Trabajo principalmente con **React** y **WordPress**, creando desde sitios insti
 - Enfoque en rendimiento y código mantenible.
 - Apertura de línea WordPress en empresa (impacto real).
 
-## Tecnologías
+## 🛠️ Tecnologías
 
 ### Frontend
 
