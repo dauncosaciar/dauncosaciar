@@ -33,6 +33,14 @@ Trabajo principalmente con **React** y **WordPress**, creando desde sitios insti
 
 ![WordPress][WordPress]
 
+## 🏆 Logros destacados
+
+- Desarrollo de +25 sitios WordPress personalizados.
+- Reducción de hasta 50% en errores de carga.
+- Implementación de componentes React (PDFs dinámicos).
+- Reducción de bugs en un 20% por sprint.
+- Lideré la introducción de WordPress en equipo de desarrollo.
+
 ## Contactame
 
 - **Linkedin:** [https://www.linkedin.com/in/dauncosaciar/](https://www.linkedin.com/in/dauncosaciar/)
