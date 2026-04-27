@@ -41,10 +41,9 @@ Trabajo principalmente con **React** y **WordPress**, creando desde sitios insti
 - Reducción de bugs en un 20% por sprint.
 - Lideré la introducción de WordPress en equipo de desarrollo.
 
-## Contactame
+## 📫 Contacto
 
-- **Linkedin:** [https://www.linkedin.com/in/dauncosaciar/](https://www.linkedin.com/in/dauncosaciar/)
-- **Portfolio:** [https://daua-dev-portfolio.infinityfreeapp.com/](https://daua-dev-portfolio.infinityfreeapp.com/)
+[![Linkedin][Linkedin]][Linkedin-url] [![Portfolio][Portfolio]][Portfolio-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -64,3 +63,7 @@ Trabajo principalmente con **React** y **WordPress**, creando desde sitios insti
 [Vite]: https://img.shields.io/badge/Vite-B39AFF?style=for-the-badge&logo=vite&logoColor=white
 [WordPress]: https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white
 [PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-url]: https://www.linkedin.com/in/dauncosaciar/
+[Portfolio]: https://img.shields.io/badge/Portfolio-1f3726?style=for-the-badge&logoColor=white
+[Portfolio-url]: https://daua-dev-portfolio.infinityfreeapp.com/
