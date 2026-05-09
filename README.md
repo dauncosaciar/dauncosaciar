@@ -1,4 +1,4 @@
-# ⚔️ Salve, soy Daniel A. Uncos Aciar
+# ⚔️ Salve, soy Daniel A Uncos Aciar
 
 ![Profile Hero][profile-hero]
 
