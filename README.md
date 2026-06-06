@@ -1,53 +1,80 @@
-# ⚔️ Salve, soy Daniel A Uncos Aciar
+# ⚔️ Salve, soy Daniel Alejandro Uncos Aciar
 
 ![Profile Hero][profile-hero]
 
-## 🏛️ Frontend Developer – WordPress Developer
+## 👨‍💻 Frontend Developer | React • TypeScript • JavaScript
 
-Ingeniero en Sistemas de Información especializado en desarrollo de sitios web funcionales, optimizados y visualmente cuidados.
+Ingeniero en Sistemas de Información con más de 6 años de experiencia en desarrollo web.
 
-Trabajo principalmente con **React** y **WordPress**, creando desde sitios institucionales hasta soluciones e-commerce.
+Me especializo en la construcción, mantenimiento y optimización de aplicaciones web utilizando React, TypeScript y JavaScript. A lo largo de mi carrera trabajé tanto en aplicaciones frontend modernas como en el desarrollo de sitios web personalizados con WordPress y WooCommerce.
 
-## ⚡ Sobre mí
+## 🚀 Sobre mí
 
-- +5 años desarrollando sitios web en producción.
-- Experiencia real con clientes y equipos de trabajo.
-- Enfoque en rendimiento y código mantenible.
-- Apertura de línea WordPress en empresa (impacto real).
+- 💻 +6 años desarrollando soluciones web para empresas y clientes.
+- ⚛️ Experiencia profesional construyendo aplicaciones con React.
+- 🔌 Consumo e integración de APIs REST.
+- 🛠️ Implementación de nuevas funcionalidades y mantenimiento evolutivo.
+- 🏗️ Experiencia desarrollando sitios corporativos y e-commerce con WordPress.
+- 📚 Actualmente profundizando conocimientos en Next.js, Node.js y desarrollo Full Stack JavaScript.
 
-## 🛠️ Tecnologías
+## 🛠️ Stack Tecnológico
 
 ### Frontend
 
-![SASS][SASS] ![TailwindCSS][TailwindCSS] ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![React-Query][React-Query] ![React-Hook-Form][React-Hook-Form] ![React-Router][React-Router] ![Vite][Vite]
+![JavaScript][JavaScript]
+![TypeScript][TypeScript]
+![React][React]
+![React-Query][React-Query]
+![React-Hook-Form][React-Hook-Form]
+![React-Router][React-Router]
+![TailwindCSS][TailwindCSS]
+![SASS][SASS]
+![Vite][Vite]
 
 ### Backend
 
-![Node.js][Node.js] ![Express.js][Express.js] ![PHP][PHP]
+![Node.js][Node.js]
+![Express.js][Express.js]
+![PHP][PHP]
 
-### Bases de datos
+### Bases de Datos
 
-![MongoDB][MongoDB] ![MySQL][MySQL]
+![MongoDB][MongoDB]
+![MySQL][MySQL]
 
 ### CMS
 
 ![WordPress][WordPress]
 
-## 🏆 Logros destacados
+## 🏆 Experiencia Destacada
 
-- Desarrollo de +25 sitios WordPress personalizados.
-- Reducción de hasta 50% en errores de carga.
-- Implementación de componentes React (PDFs dinámicos).
-- Reducción de bugs en un 20% por sprint.
-- Lideré la introducción de WordPress en equipo de desarrollo.
+### Sitenso — Frontend Developer
+
+- Desarrollo y mantenimiento de aplicaciones web utilizando React.
+- Implementación de nuevas funcionalidades para clientes internos y externos.
+- Desarrollo de un componente PDF en React para automatizar facturas y presupuestos.
+- Lideré la incorporación de WordPress como nueva línea de desarrollo dentro del equipo.
+
+### Ide Consultora — WordPress Developer
+
+- Desarrollo de más de 15 sitios web personalizados.
+- Implementación de soluciones WooCommerce.
+- Optimización y mantenimiento de proyectos web para distintos sectores.
+
+## 📈 Actualmente Aprendiendo
+
+- Next.js
+- Node.js
+- Express
+- Arquitecturas Full Stack JavaScript
+- Herramientas de IA aplicadas al desarrollo
 
 ## 📫 Contacto
 
-[![Linkedin][Linkedin]][Linkedin-url] [![Portfolio][Portfolio]][Portfolio-url]
+[![Linkedin][Linkedin]][Linkedin-url]
+[![Portfolio][Portfolio]][Portfolio-url]
 
-## 🧠 Actualmente
-
-Profundizando en tecnologías del ecosistema JavaScript y consolidando conocimientos en desarrollo frontend, aplicando buenas prácticas en proyectos con React y WordPress.
+> "Siempre buscando construir aplicaciones más mantenibles, escalables y fáciles de usar."
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
