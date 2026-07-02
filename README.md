@@ -74,8 +74,6 @@ Me especializo en la construcción, mantenimiento y optimización de aplicacione
 [![Linkedin][Linkedin]][Linkedin-url]
 [![Portfolio][Portfolio]][Portfolio-url]
 
-> "Siempre buscando construir aplicaciones más mantenibles, escalables y fáciles de usar."
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [profile-hero]: assets/img/github-profile-2026.jpg
