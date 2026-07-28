@@ -21,26 +21,15 @@ Me especializo en la construcción, mantenimiento y optimización de aplicacione
 
 ### Frontend
 
-![JavaScript][JavaScript]
-![TypeScript][TypeScript]
-![React][React]
-![React-Query][React-Query]
-![React-Hook-Form][React-Hook-Form]
-![React-Router][React-Router]
-![TailwindCSS][TailwindCSS]
-![SASS][SASS]
-![Vite][Vite]
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![React-Query][React-Query] ![React-Hook-Form][React-Hook-Form] ![React-Router][React-Router] ![TailwindCSS][TailwindCSS] ![SASS][SASS] ![Vite][Vite]
 
 ### Backend
 
-![Node.js][Node.js]
-![Express.js][Express.js]
-![PHP][PHP]
+![Node.js][Node.js] ![Express.js][Express.js] ![PHP][PHP]
 
 ### Bases de Datos
 
-![MongoDB][MongoDB]
-![MySQL][MySQL]
+![MongoDB][MongoDB] ![MySQL][MySQL]
 
 ### CMS
 
@@ -71,8 +60,7 @@ Me especializo en la construcción, mantenimiento y optimización de aplicacione
 
 ## 📫 Contacto
 
-[![Linkedin][Linkedin]][Linkedin-url]
-[![Portfolio][Portfolio]][Portfolio-url]
+[![Linkedin][Linkedin]][Linkedin-url] [![Portfolio][Portfolio]][Portfolio-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
